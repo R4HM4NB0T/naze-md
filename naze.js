@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6281298108109
 
 Minimal Kasih Cr kalo mau reupload😡
 
@@ -11,7 +11,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Rahman
 
 **/
 
@@ -4411,6 +4411,28 @@ _Donasi Ngab_\n_Jangan Ngarep Free Mulu_`
             naze.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
             break
+case 'assalamualaikum': {
+               goblok = fs.readFileSync('./sound/salam.mp3')
+zens.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})}
+break
+case 'bot': {
+               list = ['./sound/oy.mp3','./sound/kenapa.mp3','./sound/iya.mp3']
+ random = list[Math.floor(Math.random() * list.length)]
+goblok = fs.readFileSync(random)
+zens.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})}
+break
+case 'kontol': {
+               goblok = fs.readFileSync('./sound/ASADE.mp3')
+zens.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})}
+break
+case 'menyesal': {
+               goblok = fs.readFileSync('./sound/menyesal.mp3')
+zens.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})}
+break
+case 'sc': {
+               goblok = fs.readFileSync('./sound/sc.mp3')
+zens.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})}
+break
 case 'sound1':
 case 'sound2':
 case 'sound3':
