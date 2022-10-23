@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6281298108109
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
+global.owner = ['6281298108109']
+global.ownernomer = "6281298108109"
+global.premium = ['6281298108109']
 global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.author = 'RahmanOfficial'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
